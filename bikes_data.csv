@@ -1,0 +1,7 @@
+Model,HP,Torque_Nm,Displacement_cc,Weight_kg,Category
+Yamaha R15,18.4,14.1,155,142,Sport
+Honda CBR 600,118.0,66.0,599,194,SuperSport
+Kawasaki Ninja 300,39.0,27.0,296,174,Sport
+Royal Enfield Classic 350,20.2,27.0,349,195,Cruiser
+KTM Duke 390,43.5,37.0,373,171,Naked
+Suzuki Hayabusa,190.0,150.0,1340,266,HyperSport
